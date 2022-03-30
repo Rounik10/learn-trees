@@ -1,4 +1,4 @@
-package problems;
+package problems.views;
 
 import treeimpl.Node;
 
